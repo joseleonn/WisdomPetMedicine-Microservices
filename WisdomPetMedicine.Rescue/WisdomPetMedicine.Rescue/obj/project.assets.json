@@ -3332,11 +3332,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI\\Desktop\\.NET-Azure-Microservicios\\WisdomPetMedicine.Rescue\\WisdomPetMedicine.Rescue\\WisdomPetMedicine.Rescue.csproj",
+      "projectUniqueName": "C:\\Users\\MSI\\Documents\\GitHub\\WisdomPetMedicine-Microservices\\WisdomPetMedicine.Rescue\\WisdomPetMedicine.Rescue\\WisdomPetMedicine.Rescue.csproj",
       "projectName": "WisdomPetMedicine.Rescue",
-      "projectPath": "C:\\Users\\MSI\\Desktop\\.NET-Azure-Microservicios\\WisdomPetMedicine.Rescue\\WisdomPetMedicine.Rescue\\WisdomPetMedicine.Rescue.csproj",
+      "projectPath": "C:\\Users\\MSI\\Documents\\GitHub\\WisdomPetMedicine-Microservices\\WisdomPetMedicine.Rescue\\WisdomPetMedicine.Rescue\\WisdomPetMedicine.Rescue.csproj",
       "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI\\Desktop\\.NET-Azure-Microservicios\\WisdomPetMedicine.Rescue\\WisdomPetMedicine.Rescue\\obj\\",
+      "outputPath": "C:\\Users\\MSI\\Documents\\GitHub\\WisdomPetMedicine-Microservices\\WisdomPetMedicine.Rescue\\WisdomPetMedicine.Rescue\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3353,11 +3353,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\MSI\\Desktop\\.NET-Azure-Microservicios\\WisdomPetMedicine.Rescue\\WisdomPetMedicine.Common\\WisdomPetMedicine.Common.csproj": {
-              "projectPath": "C:\\Users\\MSI\\Desktop\\.NET-Azure-Microservicios\\WisdomPetMedicine.Rescue\\WisdomPetMedicine.Common\\WisdomPetMedicine.Common.csproj"
+            "C:\\Users\\MSI\\Documents\\GitHub\\WisdomPetMedicine-Microservices\\WisdomPetMedicine.Rescue\\WisdomPetMedicine.Common\\WisdomPetMedicine.Common.csproj": {
+              "projectPath": "C:\\Users\\MSI\\Documents\\GitHub\\WisdomPetMedicine-Microservices\\WisdomPetMedicine.Rescue\\WisdomPetMedicine.Common\\WisdomPetMedicine.Common.csproj"
             },
-            "C:\\Users\\MSI\\Desktop\\.NET-Azure-Microservicios\\WisdomPetMedicine.Rescue\\WisdomPetMedicine.Rescue.Domain\\WisdomPetMedicine.Rescue.Domain.csproj": {
-              "projectPath": "C:\\Users\\MSI\\Desktop\\.NET-Azure-Microservicios\\WisdomPetMedicine.Rescue\\WisdomPetMedicine.Rescue.Domain\\WisdomPetMedicine.Rescue.Domain.csproj"
+            "C:\\Users\\MSI\\Documents\\GitHub\\WisdomPetMedicine-Microservices\\WisdomPetMedicine.Rescue\\WisdomPetMedicine.Rescue.Domain\\WisdomPetMedicine.Rescue.Domain.csproj": {
+              "projectPath": "C:\\Users\\MSI\\Documents\\GitHub\\WisdomPetMedicine-Microservices\\WisdomPetMedicine.Rescue\\WisdomPetMedicine.Rescue.Domain\\WisdomPetMedicine.Rescue.Domain.csproj"
             }
           }
         }

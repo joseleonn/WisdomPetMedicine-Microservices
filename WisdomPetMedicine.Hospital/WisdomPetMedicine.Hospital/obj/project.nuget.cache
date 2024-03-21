@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lw3kmlYRmgOQZzO/ZOoqn150BT7t7AgGhXUXxEAZis26lqLstUxaV5N1FpPUB6AJaFvQL4zauFDrNe6cf9kmvA==",
+  "dgSpecHash": "B0IXDVTnzXszknxYqRJOybTs3ATO14VRgRDRKCxCv5d2Fu5OGrO2utmULPLCvV0zwnrSt7v6RzvQkcpWpUV15g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MSI\\Desktop\\.NET-Azure-Microservicios\\WisdomPetMedicine.Hospital\\WisdomPetMedicine.Hospital\\WisdomPetMedicine.Hospital.Api.csproj",
+  "projectFilePath": "C:\\Users\\MSI\\Documents\\GitHub\\WisdomPetMedicine-Microservices\\WisdomPetMedicine.Hospital\\WisdomPetMedicine.Hospital\\WisdomPetMedicine.Hospital.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MSI\\.nuget\\packages\\azure.core\\1.37.0\\azure.core.1.37.0.nupkg.sha512",
     "C:\\Users\\MSI\\.nuget\\packages\\azure.core.amqp\\1.3.0\\azure.core.amqp.1.3.0.nupkg.sha512",

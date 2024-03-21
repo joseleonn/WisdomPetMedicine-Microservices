@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TaxW1CIlSDGZ/JVuGu03ijxhpYdmv4vOUcnDo/OeA9vYXDB3I7tKTguDu3yJOs8hf66nCapKARRDPfyQQP9JjQ==",
+  "dgSpecHash": "zO4UhFbl0coPuJG4V0tStlvWK/C5yqFdMuKXwxZz8D59iHh0ffXO+5mDpdvPXHumWQO42YSVdjddpYQjyYdwOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MSI\\Desktop\\.NET-Azure-Microservicios\\WisdomPetMedicine.Hospital\\WisdomPetMedicine.Hospital.Domain\\WisdomPetMedicine.Hospital.Domain.csproj",
+  "projectFilePath": "C:\\Users\\MSI\\Documents\\GitHub\\WisdomPetMedicine-Microservices\\WisdomPetMedicine.Hospital\\WisdomPetMedicine.Hospital.Domain\\WisdomPetMedicine.Hospital.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI\\Desktop\\.NET-Azure-Microservicios\\WisdomPetMedicine.Hospital\\WisdomPetMedicine.Common\\WisdomPetMedicine.Common.csproj",
+      "projectUniqueName": "C:\\Users\\MSI\\Documents\\GitHub\\WisdomPetMedicine-Microservices\\WisdomPetMedicine.Hospital\\WisdomPetMedicine.Common\\WisdomPetMedicine.Common.csproj",
       "projectName": "WisdomPetMedicine.Common",
-      "projectPath": "C:\\Users\\MSI\\Desktop\\.NET-Azure-Microservicios\\WisdomPetMedicine.Hospital\\WisdomPetMedicine.Common\\WisdomPetMedicine.Common.csproj",
+      "projectPath": "C:\\Users\\MSI\\Documents\\GitHub\\WisdomPetMedicine-Microservices\\WisdomPetMedicine.Hospital\\WisdomPetMedicine.Common\\WisdomPetMedicine.Common.csproj",
       "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI\\Desktop\\.NET-Azure-Microservicios\\WisdomPetMedicine.Hospital\\WisdomPetMedicine.Common\\obj\\",
+      "outputPath": "C:\\Users\\MSI\\Documents\\GitHub\\WisdomPetMedicine-Microservices\\WisdomPetMedicine.Hospital\\WisdomPetMedicine.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
