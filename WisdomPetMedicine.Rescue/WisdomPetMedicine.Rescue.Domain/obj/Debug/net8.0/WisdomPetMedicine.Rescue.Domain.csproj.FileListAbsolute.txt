@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine.Rescue\WisdomPetMedicine.Rescue.Domain\bin\Debug\net8.0\WisdomPetMedicine.Rescue.Domain.deps.json
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine.Rescue\WisdomPetMedicine.Rescue.Domain\bin\Debug\net8.0\WisdomPetMedicine.Rescue.Domain.dll
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine.Rescue\WisdomPetMedicine.Rescue.Domain\bin\Debug\net8.0\WisdomPetMedicine.Rescue.Domain.pdb
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine.Rescue\WisdomPetMedicine.Rescue.Domain\bin\Debug\net8.0\WisdomPetMedicine.Common.dll
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine.Rescue\WisdomPetMedicine.Rescue.Domain\bin\Debug\net8.0\WisdomPetMedicine.Common.pdb
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine.Rescue\WisdomPetMedicine.Rescue.Domain\obj\Debug\net8.0\WisdomPetMedicine.Rescue.Domain.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine.Rescue\WisdomPetMedicine.Rescue.Domain\obj\Debug\net8.0\WisdomPetMedicine.Rescue.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine.Rescue\WisdomPetMedicine.Rescue.Domain\obj\Debug\net8.0\WisdomPetMedicine.Rescue.Domain.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine.Rescue\WisdomPetMedicine.Rescue.Domain\obj\Debug\net8.0\WisdomPetMedicine.Rescue.Domain.AssemblyInfo.cs
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine.Rescue\WisdomPetMedicine.Rescue.Domain\obj\Debug\net8.0\WisdomPetMedicine.Rescue.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine.Rescue\WisdomPetMedicine.Rescue.Domain\obj\Debug\net8.0\WisdomPetMedicine.Rescue.Domain.csproj.CopyComplete
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine.Rescue\WisdomPetMedicine.Rescue.Domain\obj\Debug\net8.0\WisdomPetMedicine.Rescue.Domain.dll
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine.Rescue\WisdomPetMedicine.Rescue.Domain\obj\Debug\net8.0\refint\WisdomPetMedicine.Rescue.Domain.dll
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine.Rescue\WisdomPetMedicine.Rescue.Domain\obj\Debug\net8.0\WisdomPetMedicine.Rescue.Domain.pdb
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine.Rescue\WisdomPetMedicine.Rescue.Domain\obj\Debug\net8.0\ref\WisdomPetMedicine.Rescue.Domain.dll

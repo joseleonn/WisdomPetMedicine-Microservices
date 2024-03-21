@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WisdomPetMedicine.Rescue.Domain/1.0.0": {
+        "dependencies": {
+          "WisdomPetMedicine.Common": "1.0.0"
+        },
+        "runtime": {
+          "WisdomPetMedicine.Rescue.Domain.dll": {}
+        }
+      },
+      "WisdomPetMedicine.Common/1.0.0": {
+        "runtime": {
+          "WisdomPetMedicine.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WisdomPetMedicine.Rescue.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WisdomPetMedicine.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

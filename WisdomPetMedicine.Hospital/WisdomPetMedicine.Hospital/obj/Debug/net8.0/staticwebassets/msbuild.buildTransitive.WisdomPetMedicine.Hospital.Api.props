@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WisdomPetMedicine.Hospital.Api.props" />
+</Project>

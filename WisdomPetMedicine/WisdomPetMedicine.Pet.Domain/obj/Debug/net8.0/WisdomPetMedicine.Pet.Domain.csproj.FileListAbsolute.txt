@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine\WisdomPetMedicine.Pet.Domain\bin\Debug\net8.0\WisdomPetMedicine.Pet.Domain.deps.json
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine\WisdomPetMedicine.Pet.Domain\bin\Debug\net8.0\WisdomPetMedicine.Pet.Domain.dll
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine\WisdomPetMedicine.Pet.Domain\bin\Debug\net8.0\WisdomPetMedicine.Pet.Domain.pdb
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine\WisdomPetMedicine.Pet.Domain\bin\Debug\net8.0\WisdomPetMedicine.Common.dll
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine\WisdomPetMedicine.Pet.Domain\bin\Debug\net8.0\WisdomPetMedicine.Common.pdb
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine\WisdomPetMedicine.Pet.Domain\obj\Debug\net8.0\WisdomPetMedicine.Pet.Domain.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine\WisdomPetMedicine.Pet.Domain\obj\Debug\net8.0\WisdomPetMedicine.Pet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine\WisdomPetMedicine.Pet.Domain\obj\Debug\net8.0\WisdomPetMedicine.Pet.Domain.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine\WisdomPetMedicine.Pet.Domain\obj\Debug\net8.0\WisdomPetMedicine.Pet.Domain.AssemblyInfo.cs
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine\WisdomPetMedicine.Pet.Domain\obj\Debug\net8.0\WisdomPetMedicine.Pet.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine\WisdomPetMedicine.Pet.Domain\obj\Debug\net8.0\WisdomPetMedicine.Pet.Domain.csproj.CopyComplete
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine\WisdomPetMedicine.Pet.Domain\obj\Debug\net8.0\WisdomPetMedicine.Pet.Domain.dll
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine\WisdomPetMedicine.Pet.Domain\obj\Debug\net8.0\refint\WisdomPetMedicine.Pet.Domain.dll
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine\WisdomPetMedicine.Pet.Domain\obj\Debug\net8.0\WisdomPetMedicine.Pet.Domain.pdb
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine\WisdomPetMedicine.Pet.Domain\obj\Debug\net8.0\ref\WisdomPetMedicine.Pet.Domain.dll

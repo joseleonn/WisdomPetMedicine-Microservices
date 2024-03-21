@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WisdomPetMedicine.Hospital.Api", "WisdomPetMedicine.Hospital\WisdomPetMedicine.Hospital.Api.csproj", "{47FA3620-9F71-427B-BA40-B7084BE32AF0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WisdomPetMedicine.Hospital.Domain", "WisdomPetMedicine.Hospital.Domain\WisdomPetMedicine.Hospital.Domain.csproj", "{47B8A006-7C4B-4BD1-8513-295C842A304B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WisdomPetMedicine.Common", "WisdomPetMedicine.Common\WisdomPetMedicine.Common.csproj", "{7E56FC41-B312-4A3B-9164-5C84BFF2853E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WisdomPetMedicine.Hospital.Infraesctucture", "WisdomPetMedicine.Hospital.Infraesctucture\WisdomPetMedicine.Hospital.Infraesctucture.csproj", "{76A83137-7B58-4D93-8E5A-D554E2D083E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WisdomPetMedicine.Hospital.Projector", "WisdomPetMedicine.Hospital.Projector\WisdomPetMedicine.Hospital.Projector.csproj", "{FB2AC838-F46C-49F1-8C78-30C5D5B52E02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47FA3620-9F71-427B-BA40-B7084BE32AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47FA3620-9F71-427B-BA40-B7084BE32AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47FA3620-9F71-427B-BA40-B7084BE32AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47FA3620-9F71-427B-BA40-B7084BE32AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47B8A006-7C4B-4BD1-8513-295C842A304B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47B8A006-7C4B-4BD1-8513-295C842A304B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47B8A006-7C4B-4BD1-8513-295C842A304B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47B8A006-7C4B-4BD1-8513-295C842A304B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E56FC41-B312-4A3B-9164-5C84BFF2853E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E56FC41-B312-4A3B-9164-5C84BFF2853E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E56FC41-B312-4A3B-9164-5C84BFF2853E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E56FC41-B312-4A3B-9164-5C84BFF2853E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76A83137-7B58-4D93-8E5A-D554E2D083E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76A83137-7B58-4D93-8E5A-D554E2D083E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76A83137-7B58-4D93-8E5A-D554E2D083E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76A83137-7B58-4D93-8E5A-D554E2D083E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB2AC838-F46C-49F1-8C78-30C5D5B52E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2AC838-F46C-49F1-8C78-30C5D5B52E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2AC838-F46C-49F1-8C78-30C5D5B52E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2AC838-F46C-49F1-8C78-30C5D5B52E02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B56C2061-ED19-45A2-B6DC-0E14F374FFB8}
+	EndGlobalSection
+EndGlobal

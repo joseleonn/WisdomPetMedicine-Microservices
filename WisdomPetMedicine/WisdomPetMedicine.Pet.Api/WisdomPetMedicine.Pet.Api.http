@@ -1,0 +1,6 @@
+@WisdomPetMedicine.Pet.Api_HostAddress = http://localhost:5249
+
+GET {{WisdomPetMedicine.Pet.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine\WisdomPetMedicine.Common\bin\Debug\net8.0\WisdomPetMedicine.Common.deps.json
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine\WisdomPetMedicine.Common\bin\Debug\net8.0\WisdomPetMedicine.Common.dll
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine\WisdomPetMedicine.Common\bin\Debug\net8.0\WisdomPetMedicine.Common.pdb
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine\WisdomPetMedicine.Common\obj\Debug\net8.0\WisdomPetMedicine.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine\WisdomPetMedicine.Common\obj\Debug\net8.0\WisdomPetMedicine.Common.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine\WisdomPetMedicine.Common\obj\Debug\net8.0\WisdomPetMedicine.Common.AssemblyInfo.cs
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine\WisdomPetMedicine.Common\obj\Debug\net8.0\WisdomPetMedicine.Common.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine\WisdomPetMedicine.Common\obj\Debug\net8.0\WisdomPetMedicine.Common.dll
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine\WisdomPetMedicine.Common\obj\Debug\net8.0\refint\WisdomPetMedicine.Common.dll
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine\WisdomPetMedicine.Common\obj\Debug\net8.0\WisdomPetMedicine.Common.pdb
+C:\Users\MSI\Desktop\.NET-Azure-Microservicios\WisdomPetMedicine\WisdomPetMedicine.Common\obj\Debug\net8.0\ref\WisdomPetMedicine.Common.dll

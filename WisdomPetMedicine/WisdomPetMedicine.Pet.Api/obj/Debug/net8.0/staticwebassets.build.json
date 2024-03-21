@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HNtMPVF3IhKAKA0JEjSgREBLmOx+tUkCJPqXQwmVSNY=",
+  "Source": "WisdomPetMedicine.Pet.Api",
+  "BasePath": "_content/WisdomPetMedicine.Pet.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
